@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding : 0;}
+	
+.wrapper{
+	width : 1150px;
+	margin:0 auto;
+	 
+	}
+.img{
+
+	height:100px ; 
+	width:100%;
+	background:#f0f2f7;
+	
+
+}
+.logo{
+   height: 80px;
+   width: 130px;
+   float: left;
+   margin-top:10px;
+   margin-left:20px;
+}
+
+
+.nav1{
+	height:30px;
+	width:100%;
+	float: left;
+	margin: 2px 0px;
+	background-color: #f7f8fa;
+}
+.nav1 ul{
+	list-style: none;
+	text-transform: capitalize;
+}
+.nav1 ul li{
+	display: inline;
+	line-height: 30px;
+	padding: 85px;
+}
+.nav1 ul li a{
+	text-decoration: none;
+	color:#333;
+}
+
+.nav1 ul li a:hover{
+	background: #7f8185;
+}
+.slide{
+ width: 100%;
+ height: 280px;
+ background: ;
+ float: right;
+ margin: 10px 0;
+}
+.footer{
+	height: 50px;
+	width: 100%;
+	background: #333;
+	clear: both;
+	line-height: 50px;
+	text-align: center;
+	color: white;
+}
+.video{
+	float: left;
+	width: 300px;
+	padding: 40px;
+}
